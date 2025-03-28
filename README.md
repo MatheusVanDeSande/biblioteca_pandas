@@ -5,13 +5,7 @@
 
 Este projeto aborda um cenário onde um cliente busca um apartamento para alugar com base em premissas específicas (custo máximo, localização, número de quartos e aceitação de animais).
 
-**Principais etapas:**
-✅ Importação e exploração inicial dos dados
-
-✅ Filtragem e tratamento de dados com Python e Pandas]
-
-✅ Análise estatística e cálculo de métricas essenciais
-✅ Visualização de dados com Seaborn
+**Principais etapas:** Importação e exploração inicial dos dados, Filtragem e tratamento de dados com Python e Pandas, Análise estatística e cálculo de métricas essenciais e Visualização de dados com Seaborn
 
 **Perguntas respondidas:**
 
@@ -24,10 +18,7 @@ As métricas essenciais estão claras para suportar a decisão?
 🛒 **Case 2: Análise de Métricas para Loja de Varejo**
 Este projeto foca na criação de métricas e KPIs para uma loja de varejo, combinando dados de vendas e clientes. O objetivo é tratar e unir as bases para gerar insights estratégicos.
 
-**Principais etapas:**
-✅ Importação e tratamento de dados (padronização, tratamento de nulos)
-✅ Filtragem, agrupamento e cálculo de métricas com Pandas e NumPy
-✅ Criação de visualizações interativas com Matplotlib e Plotly
+**Principais etapas:**  Importação e tratamento de dados (padronização, tratamento de nulos, Filtragem, agrupamento e cálculo de métricas com Pandas e NumPy e Criação de visualizações interativas com Matplotlib e Plotly
 
 **Perguntas respondidas:**
 
