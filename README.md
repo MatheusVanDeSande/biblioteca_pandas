@@ -1,7 +1,7 @@
 # biblioteca_pandas
 # Descrição dos Cases 
 
-🏠 Case 1: Análise para Melhor Custo-Benefício na Busca por Apartamento
+🏠 _Case 1: Análise para Melhor Custo-Benefício na Busca por Apartamento_
 Este projeto aborda um cenário onde um cliente busca um apartamento para alugar com base em premissas específicas (custo máximo, localização, número de quartos e aceitação de animais).
 
 Principais etapas:
